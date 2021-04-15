@@ -19,6 +19,7 @@ Create a Python script that analyzes the records to calculate each of the follow
 - The average of the changes in "Profit/Losses" over the entire period
 - The greatest increase in profits (date and amount) over the entire period
 - The greatest decrease in losses (date and amount) over the entire period
+
 ![Bank-Results](PyBank/images/bank_results.png)
 
 ## PyPoll
@@ -36,4 +37,5 @@ Create a Python script that analyzes the votes and calculates each of the follow
 - The percentage of votes each candidate won
 - The total number of votes each candidate won
 - The winner of the election based on popular vote.
+
 ![Election-Results](PyPoll/images/election_results.png)
