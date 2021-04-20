@@ -39,3 +39,6 @@ Create a Python script that analyzes the votes and calculates each of the follow
 - The winner of the election based on popular vote.
 
 ![Election-Results](PyPoll/images/election_results.png)
+
+### Contact:
+Alex Arnold: alexnarnold630@gmail.com <br>
